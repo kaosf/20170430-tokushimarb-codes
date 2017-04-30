@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## References
+
+* http://qiita.com/jnchito/items/aec75fab42804287d71b
